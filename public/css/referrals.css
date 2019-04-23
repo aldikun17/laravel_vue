@@ -1,0 +1,57 @@
+<style>
+
+#main-board{
+	
+	
+
+}
+
+#wrapper-header{
+
+	position:relative;
+
+	margin-top:60px;
+	
+	padding:20px;
+
+}
+
+#wrapper-header .city_logo img{
+	
+	min-height:150px;
+
+	height:150px;
+
+	position:absolute;
+
+	left:200px;
+
+}
+
+#wrapper-header .city_img img{
+	
+	min-height:150px;
+
+	height:150px;
+
+	position:absolute;
+
+	left:50px;
+
+}
+
+#wrapper-body{
+	
+	margin-top:50px;
+
+}
+
+#modalBtn{
+	
+	position:relative;
+
+	left:89%;
+
+}
+
+</style>
